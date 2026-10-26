@@ -14,12 +14,6 @@
 
 <br clear="left"/>
 
-<p>
-  <a href="https://github.com/chronitonlabs/chronitondb/blob/chronitondb-5.0/LICENSE.txt"><img src="https://img.shields.io/badge/license-Apache%202.0-26282C?style=flat-square" alt="License: Apache 2.0"></a>
-  <img src="https://img.shields.io/badge/status-early%20development-D8572A?style=flat-square" alt="Status: early development">
-  <img src="https://img.shields.io/badge/lines-5.0%20%7C%206.0-26282C?style=flat-square" alt="Lines: 5.0 and 6.0">
-</p>
-
 **Status:** early development and being bootstrapped. Not ready to use yet.
 
 - **Apache License 2.0, always.** No license change and no proprietary edition with features held back.
