@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chronitonlabs/.github/raw/main/profile/chronitonlabs-banner.png" width="820" alt="ChronitonDB">
+  <img src="https://github.com/chronitonlabs/brand/raw/main/chronitondb/chronitondb-social-preview.png" width="820" alt="ChronitonDB">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## ChronitonDB
 
-<img src="https://github.com/chronitonlabs/.github/raw/main/profile/chronitondb-icon.png" width="64" align="left" alt="ChronitonDB icon">
+<img src="https://github.com/chronitonlabs/brand/raw/main/chronitondb/chronitondb-icon-charcoal-512.png" width="64" align="left" alt="ChronitonDB icon">
 
 [ChronitonDB](https://github.com/chronitonlabs/chronitondb) is an open source database built on [Apache Cassandra](https://cassandra.apache.org/)®. It adds features and enhancements shaped by its users and contributors, with secure and well tuned defaults, while retaining backwards compatibility with Apache Cassandra.
 
