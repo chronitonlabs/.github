@@ -2,10 +2,18 @@
 
 Thank you for your interest in contributing. This guide applies to every Chroniton Labs project. Some projects add their own rules in a CONTRIBUTING.md in their repository, which applies as well.
 
+## Where to start
+
+| You have | Go to |
+|---|---|
+| An idea, a question, or something you want to discuss before writing code | [Discussions](https://github.com/orgs/chronitonlabs/discussions) |
+| A bug or a specific, agreed piece of work | The GitHub Issues of the project concerned |
+| A security vulnerability | Private reporting, see [SECURITY.md](SECURITY.md) |
+
 ## Before you start
 
 - **Sign the contributor agreement.** Every individual contributor signs the Chroniton Labs Individual Contributor Assignment Agreement through the CLA Assistant check on their first pull request, even if their employer has signed the Entity agreement. If your employer owns relevant rights in your contributions, your employer also signs the Chroniton Labs Entity Contributor Assignment Agreement and lists you in Schedule A. A pull request cannot be merged until every individual contributor to it has signed. You sign once, and it covers every Chroniton Labs project. A new agreement version applies to your later contributions only if you separately sign that version. The agreements, a plain English summary and how to sign are in [contributor-agreements](https://github.com/chronitonlabs/contributor-agreements).
-- **Open an issue first** for anything larger than a small fix, so the approach can be agreed before you write the code. Use the GitHub Issues of the project concerned.
+- **Talk to us first** for anything larger than a small fix, so the approach can be agreed before you write the code. Start a discussion for an idea, or open an issue for agreed work.
 
 ## Pull requests
 
