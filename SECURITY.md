@@ -10,7 +10,7 @@ Include what you found, the project, branch or version affected, and the steps t
 
 ## Vulnerabilities that also affect an Apache project
 
-Some Chroniton Labs projects are built on projects of The Apache Software Foundation, for example ChronitonDB on Apache Cassandra. If the vulnerability also affects the Apache project, please also report it to the Apache Software Foundation security team, following [the Apache security process](https://www.apache.org/security/). We coordinate with the Apache project so that a fix is not disclosed in one project before the other is ready.
+Some Chroniton Labs projects are built on projects of The Apache Software Foundation, for example ChronitonDB on Apache Cassandra. If the vulnerability also affects the Apache project, please also report it to the Apache Software Foundation security team, following [the Apache security process](https://www.apache.org/security/). When a vulnerability also affects the Apache project, we notify the Apache security team at once, with our fix. We release our fix at most 14 days after that notice. We release sooner if the vulnerability becomes public or is exploited, and at once if it is already public. If we learned of the vulnerability from Apache under their embargo, their embargo terms bind us.
 
 ## Supported versions
 
